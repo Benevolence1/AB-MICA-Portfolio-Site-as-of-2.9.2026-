@@ -317,19 +317,21 @@ background: none;
 /* Responsive Design */
 @media (max-width: 768px){
   body{
-    padding-top: 115px;
+    padding-top: 105px;
     padding-bottom: 120px;
   }
 
   .carousel{
-
-    justify-content: center;
-    align-items: center;
+margin-left: -20px;
+  width: 150%;
+  display: flex;
+  max-width: 110%;
   }
 
     .carousel-inner{
       width: 100%;
       align-items: center;
+
     }
 
     .image-holder{
@@ -337,7 +339,6 @@ background: none;
       justify-content: center;
       display: flex;
     }
-
 
   .content-wrap{
 
