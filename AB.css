@@ -110,7 +110,7 @@ THAT CAUSED IT TO BE MESSED UP
   margin: 0 auto;
   /* centers everything (like
   all the items and stuff) */
-  padding: 0 60px;
+ padding-left: 34px;
 }
 /* To push it to the center (the content that's parenting) */
 
